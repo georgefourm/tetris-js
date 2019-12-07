@@ -4,7 +4,8 @@
   "description": "A tetris implementation in vanilla JS",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.js"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "George Fourmouzis",
   "license": "ISC",
