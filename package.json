@@ -1,0 +1,17 @@
+{
+  "name": "tetris-js",
+  "version": "1.0.0",
+  "description": "A tetris implementation in vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.js"
+  },
+  "author": "George Fourmouzis",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  },
+  "dependencies": {
+    "src": "^1.1.2"
+  }
+}
